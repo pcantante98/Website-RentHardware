@@ -1,0 +1,127 @@
+.branding {
+  font-size: 17px;
+}
+
+#home-button-logo {
+  padding: 0px;
+}
+
+.showcase {
+  background: url('../img/background-inicio.jpg') no-repeat;
+  background-position: center;
+  min-height: 850px;
+  padding: 140px 100px;
+  color: #fff;
+}
+
+#slideshow {
+  padding-top: 3%;
+  padding-bottom: 3%;
+  max-width: 500px;
+  max-height: 100px;
+}
+
+#slide {
+  width: 100%;
+  height: 100%;
+}
+
+.w3-animate-fading {
+  animation: fading 8s infinite
+}
+
+.showcase .m6 {
+  border-right: 8px;
+  color: #fff;
+  height: 50%"
+}
+
+#thick_hr {
+  border-width: 8px;
+  width: 35%;
+  margin: auto;
+}
+
+.showcase .w3-button {
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.showcase h1 {
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.showcase p {
+  font-size: 16px;
+  padding-bottom: 5px;
+  padding: 10px;
+}
+
+.showcase img {
+  width: 60%;
+}
+
+.w3-large {
+  width: 100%;
+  margin-top: 5px;
+}
+
+.w3-container .w3-white {
+  margin-bottom: 10px;
+}
+
+.section {
+  padding: 25px 0px;
+  background: #ecebe8;
+}
+
+.section h2 {
+  padding: 0;
+  margin: 0;
+  font-size: 30px;
+}
+
+#coluna_accordion {
+  padding: 15px;
+  padding-top: 0px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.section img {
+  border: 8px solid lightblue;
+  width: 45%;
+}
+
+#contacto {
+  padding: 15px;
+}
+
+#titulo_modal {
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+#submit_modal {
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+#titulo_contacto {
+  font-size: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+textarea {
+  resize: none;
+}
+
+.section p {
+  text-align: justify;
+}
